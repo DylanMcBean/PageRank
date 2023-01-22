@@ -1,0 +1,13 @@
+# Scrapy files
+*.log
+*.log.gz
+*.jl
+.scrapy
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Output files
+output.json
+page_rank.txt
